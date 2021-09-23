@@ -6,7 +6,8 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            var obj1 = Singleton.CreateInstance(); 
+            var obj1 = Singleton.CreateInstance();
+	
         }
     }
 }
