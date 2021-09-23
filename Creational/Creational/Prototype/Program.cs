@@ -15,7 +15,6 @@ namespace Prototype
             var person2 = person1.Clone() as Person;
 
             Console.WriteLine($"Name : {person2.Name}, Email : {person2.Email}");
-
         }
     }
 }
