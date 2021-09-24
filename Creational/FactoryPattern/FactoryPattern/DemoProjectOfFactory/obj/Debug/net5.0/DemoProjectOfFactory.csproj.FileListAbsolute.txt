@@ -1,0 +1,16 @@
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\bin\Debug\net5.0\DemoProjectOfFactory.exe
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\bin\Debug\net5.0\DemoProjectOfFactory.deps.json
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\bin\Debug\net5.0\DemoProjectOfFactory.runtimeconfig.json
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\bin\Debug\net5.0\DemoProjectOfFactory.runtimeconfig.dev.json
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\bin\Debug\net5.0\DemoProjectOfFactory.dll
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\bin\Debug\net5.0\ref\DemoProjectOfFactory.dll
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\bin\Debug\net5.0\DemoProjectOfFactory.pdb
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\obj\Debug\net5.0\DemoProjectOfFactory.csproj.AssemblyReference.cache
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\obj\Debug\net5.0\DemoProjectOfFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\obj\Debug\net5.0\DemoProjectOfFactory.AssemblyInfoInputs.cache
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\obj\Debug\net5.0\DemoProjectOfFactory.AssemblyInfo.cs
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\obj\Debug\net5.0\DemoProjectOfFactory.csproj.CoreCompileInputs.cache
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\obj\Debug\net5.0\DemoProjectOfFactory.dll
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\obj\Debug\net5.0\ref\DemoProjectOfFactory.dll
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\obj\Debug\net5.0\DemoProjectOfFactory.pdb
+D:\Code\AspNET\OOAD\FactoryPattern\FactoryPattern\DemoProjectOfFactory\obj\Debug\net5.0\DemoProjectOfFactory.genruntimeconfig.cache
