@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern
 {
-    public class Vorta : Food
+    public class Vorta : IFood
     {
-        public override double FoodPrice()
+        public double FoodPrice()
         {
             return 25;
         }
 
-        public override string PrepareFood()
+        public string PrepareFood()
         {
             return "Mama apner vat, vorta ";
         }

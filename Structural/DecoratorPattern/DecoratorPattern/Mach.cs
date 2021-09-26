@@ -8,16 +8,16 @@ namespace DecoratorPattern
 {
     public class Mach : FoodDecorator
     {
-        public Mach(Food plainFood) : base(plainFood)
+        public Mach(IFood plainFood) : base(plainFood)
         {
 
         }
 
-        public string PrepareFood()
+        public override string PrepareFood()
         {
             return plainFood.PrepareFood() + "Mach ready";
         }
-        public double FoodPrice()
+        public override double FoodPrice()
         {
             return plainFood.FoodPrice() + 60;
         }

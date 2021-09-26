@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern
 {
-    public class FoodDecorator : Food
+    public class FoodDecorator : IFood
     {
-        public Food plainFood;
-        public FoodDecorator(Food plainFood)
+        public IFood plainFood;
+        public FoodDecorator(IFood plainFood)
         {
             this.plainFood = plainFood;
         }
-        public override double FoodPrice()
+        public virtual double FoodPrice()
         {
             return plainFood.FoodPrice();
         }
 
-        public override string PrepareFood()
+        public virtual string PrepareFood()
         {
             return plainFood.PrepareFood();
         }

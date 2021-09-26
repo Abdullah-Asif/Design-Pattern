@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern
 {
-    public abstract class Food
+    public interface IFood
     {
-        public abstract string PrepareFood();
-        public abstract double FoodPrice();
+        string PrepareFood();
+        double FoodPrice();
     }
 }

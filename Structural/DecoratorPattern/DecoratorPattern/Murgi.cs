@@ -8,16 +8,16 @@ namespace DecoratorPattern
 {
     public class Murgi : FoodDecorator
     {
-        public Murgi(Food plainFood) : base(plainFood)
+        public Murgi(IFood plainFood) : base(plainFood)
         {
 
         }
 
-        public string PrepareFood()
+        public override string PrepareFood()
         {
             return plainFood.PrepareFood() + "Murgi ready";
         }
-        public double FoodPrice()
+        public override double FoodPrice()
         {
             return plainFood.FoodPrice() + 90;
         }
