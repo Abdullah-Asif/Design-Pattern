@@ -1,0 +1,16 @@
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.exe
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.deps.json
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.runtimeconfig.json
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.runtimeconfig.dev.json
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.dll
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\ref\DecoratorPattern.dll
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.pdb
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csproj.AssemblyReference.cache
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfoInputs.cache
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfo.cs
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.dll
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\ref\DecoratorPattern.dll
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.pdb
+D:\Code\Github\Design-Pattern\Structural\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.genruntimeconfig.cache
